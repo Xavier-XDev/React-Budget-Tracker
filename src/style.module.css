@@ -1,0 +1,48 @@
+.main_container {
+  font-family: Papyrus;
+  color: rgb(132, 186, 60);
+  background: url("./images/smart.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.header {
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.income_input {
+  justify-content: flex-end;
+  display: flex;
+}
+
+.workspace {
+  flex: 5;
+  height: 100%;
+  flex-direction: column;
+}
+
+.expense_input {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.expense_list {
+  flex: 8;
+  align-self: center;
+  margin-top: 20px;
+}
+
+.expense_total {
+  margin-top: 50px;
+}

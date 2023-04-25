@@ -1,0 +1,11 @@
+table {
+  color: rgb(255, 255, 255) !important;
+}
+.form-control {
+  border-radius: 50px !important;
+}
+
+.btn-primary {
+  border-radius: 30px;
+  background-color: #379263;
+}
