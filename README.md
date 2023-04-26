@@ -1,6 +1,7 @@
 # React-Budget-Tracker
 
 A simple React Web Application to create a budget by tracking expenses.
+Try it out! Go to: https://xavier-xdev.github.io/React-Budget-Tracker/ 
 
 
 This project was bootstrapped with Create React App. In the project directory,run:
